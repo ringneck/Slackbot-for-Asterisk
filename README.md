@@ -4,6 +4,10 @@ A plugin for the <a href="https://github.com/lins05/slackbot">Slack chat bot</a>
 
 Open the script and replace ```<SLACK_BOT>``` with the name of your application.
 
+# Edited by OLSSOO FACTORY
+norman@olssoo.com
+
+
 ## Usage
 
 Just type help to get a list of supported commands. 
