@@ -9,7 +9,7 @@ def runProcess(exe):
     
 def placeCall(number, line):
 	if number == '':
-		reply = "Sorry, it seems that I lost track of the recipient."
+		reply = "죄송합니다. 발신을 할 수 ."
 	else:
 		if number.startswith('+'): 
 			number = '00'+number[1:]
